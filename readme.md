@@ -84,6 +84,7 @@ dist/rev-manifest.json
 ```
 
 ## 更新日志
+- v1.0.6  github库转移
 - v1.0.5  默认版本号改成1.0.0；有min.js文件时将其放到最后面。
 - v1.0.3  提交gulp-rename-rev插件
 
